@@ -137,7 +137,7 @@ Then, the project can be build running:
 
     $ npm run build
 
-To automatically rebuild on changes in the source files, once can use
+To automatically rebuild on changes in the source files, one can use
 
     $ npm run watch
 
